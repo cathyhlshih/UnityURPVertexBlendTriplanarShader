@@ -2,7 +2,7 @@
 
 <img src="/UnityURPVertexBlendTriplanarShader/Images/CathyShih_StylizedSandstoneCliff_Demo.png" alt="CathyShih_StylizedSandstoneCliff_Demo" style="width:600px;"/>
 
-This shader uses triplanar mapping, blending multiple textures using the mesh's vertex colors. It blensd between textures with height maps to create customizable transitions and realistic terrain representation. It is suited for those who want to use meshes for terrains instead of Unity's terrains. 
+This shader uses triplanar mapping, blending multiple textures using the mesh's vertex colors. It blends between textures with height maps to create customizable transitions and realistic terrain representation. It is suited for those who want to use meshes for terrains instead of Unity's terrains. 
 
 * Unity 2022.3.16f1LTS
 * URP 14.0.9
